@@ -9,6 +9,12 @@ My Personal Awesome & Notes
 - File System Api
   - https://emscripten.org/docs/api_reference/Filesystem-API.html
 
-## Articles
+## Audio DSP
+- Fast Whitenoise Generator
+  - https://www.musicdsp.org/en/latest/Synthesis/216-fast-whitenoise-generator.html
+- Pink Noise Filter
+  - https://www.musicdsp.org/en/latest/Filters/76-pink-noise-filter.html
+
+## Various
 - An ffmpeg and SDL Tutorial
   - http://dranger.com/ffmpeg/
