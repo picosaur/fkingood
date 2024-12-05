@@ -16,6 +16,8 @@ My Personal Awesome & Notes
   - https://www.musicdsp.org/en/latest/Filters/76-pink-noise-filter.html
 - Tale's JSFX Pack, audio/MIDI plug-ins and libraries for REAPER
   - https://www.taletn.com/reaper/mono_synth/
+- MinBLEP - minimum-phase bandlimited step
+  - https://www.experimentalscene.com/articles/minbleps.php
 
 ## Various
 - An ffmpeg and SDL Tutorial
