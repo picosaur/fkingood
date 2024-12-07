@@ -22,3 +22,5 @@ My Personal Awesome & Notes
 ## Various
 - An ffmpeg and SDL Tutorial
   - http://dranger.com/ffmpeg/
+- A Review of RGB Color Spaces
+  - https://babelcolor.com/index_htm_files/A%20review%20of%20RGB%20color%20spaces.pdf
