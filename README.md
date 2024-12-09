@@ -19,6 +19,12 @@ My Personal Awesome & Notes
 - MinBLEP - minimum-phase bandlimited step
   - https://www.experimentalscene.com/articles/minbleps.php
 
+## OpenGL
+  - The Book of Shaders - Algorithmic drawing
+    - https://thebookofshaders.com/05/
+      - https://graphtoy.com/
+      - https://lygia.xyz/
+
 ## Various
 - An ffmpeg and SDL Tutorial
   - http://dranger.com/ffmpeg/
